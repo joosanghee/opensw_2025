@@ -5,4 +5,9 @@
 
 void foo(void);
 
+
+void foofoo(void);
+void foofoofoo(void);
+
+
 #endif 
